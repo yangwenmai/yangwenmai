@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 Gopher
 - 🌱 Open source fancier
-- 🔥 Go Communitity talkgo.org
-- 🏠 Homepage at maiyang.me
+- 🔥 Go Communitity https://talkgo.org/
+- 🏠 Homepage at https://maiyang.me/
