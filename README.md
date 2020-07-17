@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Gopher
+- 🌱 Open source fancier
+- 🔥 Go Communitity talkgo.org
+- 🏠 Homepage at maiyang.me
