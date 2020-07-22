@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🌱 Open source fancier
 - 🔥 Go Communitity https://talkgo.org/
 - 🏠 Homepage at https://maiyang.me/
+
+[![maiyang's github stats](https://github-readme-stats.vercel.app/api?username=yangwenmai)](https://github.com/yangwenmai)
