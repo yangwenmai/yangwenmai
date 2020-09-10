@@ -15,9 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2>🏆 Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=yangwenmai&column=7"/>
+
+---
+
 - 🔭 Gopher
 - 🌱 Open source fancier
 - 🔥 Go Communitity https://talkgo.org/
 - 🏠 Homepage at https://maiyang.me/
 
-[![maiyang's github stats](https://github-readme-stats.vercel.app/api?username=yangwenmai)](https://github.com/yangwenmai)
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=yangwenmai&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangwenmai&layout=compact" />
+</div>
