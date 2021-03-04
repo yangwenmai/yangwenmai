@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://changkun.de/urlstat?mode=github&repo=yangwenmai/yangwenmai" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 <!--
 **yangwenmai/yangwenmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
