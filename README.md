@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 🔥 Go Communitity https://talkgo.org/
 - 🏠 Homepage at https://maiyang.me/
 
+<a href="https://trendshift.io/developers/1236" target="_blank"><img src="https://trendshift.io/api/badge/developers/1236" alt="yangwenmai | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 ---
 
 <div>
